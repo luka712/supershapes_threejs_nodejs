@@ -1,0 +1,27 @@
+{
+  "name": "ModelLoader_Node_ThreeJs",
+  "authors": [
+    "luka712 <lukaa712@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "app",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "three": "*",
+    "jquery": "2.2.4",
+    "three.js-controls": "^0.0.67",
+    "dat.gui": "dat.gui.js#^0.7.2",
+    "threejs-obj-exporter": "^0.72.0"
+  },
+  "resolutions": {
+    "jquery": "2.2.4"
+  }
+}
